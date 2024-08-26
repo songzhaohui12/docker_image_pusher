@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64
-python:3.9.19-slim-bookworm
+songsong11/python:3.9
