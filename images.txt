@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 
---platform=linux/arm64 nginx:stable-alpine3.20
+#--platform=linux/arm64 nginx:stable-alpine3.20
+python:3.8-slim
 
 
